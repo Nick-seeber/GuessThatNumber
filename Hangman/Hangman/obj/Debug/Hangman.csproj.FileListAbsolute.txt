@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Nik\Documents\GitHub\GuessThatNumber\Hangman\Hangman\obj\Debug\Hangman.pdb
